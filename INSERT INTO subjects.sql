@@ -1,0 +1,22 @@
+INSERT INTO subjects (subject_id, subject_name, department_id)
+VALUES
+    ('cs01', 'Introduction to Computer Science', 'cse'),
+    ('cs02', 'Data Structures and Algorithms', 'cse'),
+    ('cs03', 'Database Management Systems', 'cse'),
+    ('cs04', 'Software Engineering', 'cse'),
+    ('cs05', 'Digital Electronics', 'cse'),
+    ('ee01', 'Power Systems', 'eee'),
+    ('ee02', 'Control Systems', 'eee'),
+    ('ee03', 'Signal Processing', 'eee'),
+    ('me01', 'Thermodynamics', 'me'),
+    ('me02', 'Mechanics of Materials', 'me'),
+    ('me03', 'Fluid Mechanics', 'me'),
+    ('me04', 'Manufacturing Processes', 'me'),
+    ('ce01', 'Structural Analysis', 'ce'),
+    ('ce02', 'Transportation Engineering', 'ce'),
+    ('ce03', 'Geotechnical Engineering', 'ce'),
+    ('ce04', 'Environmental Engineering', 'ce'),
+    ('ee04', 'power electronics', 'eee'),
+    ('me05', 'Machine design', 'me'),
+    ('ee05', 'Electrical Networking', 'eee'),
+    ('ce05', 'material engineering', 'ce');

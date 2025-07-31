@@ -1,0 +1,22 @@
+INSERT INTO professor (professor_id, professor_name, subject_id, professor_number, department_id)
+VALUES
+    (1, 'Johnson', 'cs01', 123456, 'cse'),
+    (2, 'steve smith', 'cs02', 234567, 'cse'),
+    (3, 'virat kumar', 'cs03', 345678, 'cse'),
+    (4, 'mahindra singh', 'cs04', 456789, 'cse'),
+    (5, 'virendra singh', 'ee01', 567890, 'eee'),
+    (6, 'rahul sitaraman', 'ee02', 678901, 'eee'),
+    (7, 'David wills', 'ee03', 789012, 'eee'),
+    (8, 'Olivia ', 'me01', 890123, 'me'),
+    (9, 'Williamson', 'me02', 901234, 'me'),
+    (10, 'Sophia Antony', 'ce01', 123456, 'ce'),
+    (11, 'Jimmy Johnson', 'ce02', 234567, 'ce'),
+    (12, 'Thompson', 'cs05', 345678, 'cse'),
+    (13, 'Liam Wilson', 'ee04', 456789, 'eee'),
+    (14, 'Cornwall', 'me03', 567890, 'me'),
+    (15, 'Benjamin Anderson', 'ce03', 678901, 'ce'),
+    (16, 'Amelia slater', 'ce04', 789012, 'ce'),
+    (17, 'Henry Davis', 'ee05', 890123, 'eee'),
+    (18, 'Tyson steel', 'me04', 901234, 'me'),
+    (19, 'Alexander bell', 'ce05', 123456, 'ce'),
+    (20, 'elva Thompson', 'me05', 234567, 'me');
